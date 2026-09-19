@@ -1,0 +1,6 @@
+{
+  "name": "AI Career Guidance Assistant",
+  "description": "Personalized career discovery, higher-study options, and actionable step-by-step roadmaps for first-year college students.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
